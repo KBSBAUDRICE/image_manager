@@ -12,3 +12,13 @@ read the wiki https://github.com/EyeOdin/imagine_board/wiki
 - Change direction of the scroll in the setting
 - Change the background color in the setting
 - Tab system(add, remove, move, rename, etc...
+
+# Preview
+
+![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/6.png))
+
+![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/4.png))
+
+![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/5.png))
+
+![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/3.png))
