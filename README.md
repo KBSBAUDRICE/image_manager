@@ -6,7 +6,7 @@ read the wiki https://github.com/EyeOdin/imagine_board/wiki
 
 # Features
 
-- you can now Drag and drop with left clic of the mouse
+- You can now Drag and drop with left click of the mouse
 - Alt + right clic of the mouse for color picker
 - Shorcut to open and close the docker
 - Change direction of the scroll in the setting
