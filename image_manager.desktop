@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=image_manager
+X-Python-2-Compatible=false
+X-Krita-Manual=image_manager_manual.html
+Name=Image Manager
+Comment=Browse a custom folder and use the image files to create a image board.
