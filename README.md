@@ -1,7 +1,7 @@
 # Image Manager
 
 Image Manager is a Krita plugin to browse images, 
-This plugin use Imagine Board as a starting point, if you don't know Imagine Board i recommand you to
+This plugin use Imagine Board as a starting point, if you don't know Imagine Board i recommend you to
 read the wiki https://github.com/EyeOdin/imagine_board/wiki
 
 # Features
