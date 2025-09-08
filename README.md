@@ -22,3 +22,5 @@ read the wiki https://github.com/EyeOdin/imagine_board/wiki
 ![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/5.png))
 
 ![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/3.png))
+
+![Picture](https://github.com/KBSBAUDRICE/image_manager/blob/main/Images/2.png))
