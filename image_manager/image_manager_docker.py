@@ -1,5 +1,5 @@
 # Image Manager is a Krita plugin to displays and organizes images.
-# Copyright ( C ) 2022  Ricardo Jeremias.
+# Copyright ( C ) 2025  .
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -1177,10 +1177,10 @@ class imagemanager_Docker( DockWidget ):
         # Updates
         self.Combobox_Code()
     def Menu_Manual( self ):
-        url = "https://github.com/EyeOdin/image_manager/wiki"
+        url = "https://github.com/KBSBAUDRICE/image_manager"
         webbrowser.open_new( url )
     def Menu_License( self ):
-        url = "https://github.com/EyeOdin/image_manager/blob/main/LICENSE"
+        url = "https://github.com/KBSBAUDRICE/image_manager/blob/main/README.md"
         webbrowser.open_new( url )
 
     # Menu

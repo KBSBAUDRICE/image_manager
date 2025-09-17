@@ -1,5 +1,5 @@
 # Image Manager is a Krita plugin to displays and organizes images.
-# Copyright ( C ) 2022  Ricardo Jeremias.
+# Copyright ( C ) 2025  .
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

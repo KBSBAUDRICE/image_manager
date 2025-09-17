@@ -1,5 +1,5 @@
 # Image Manager is a Krita plugin to displays and organizes images.
-# Copyright ( C ) 2022  Ricardo Jeremias.
+# Copyright ( C ) 2025  .
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -50,7 +50,7 @@ class imagemanager_Extension( Extension ):
         action_browse_plus = window.createAction( "image_manager_extension_browse_plus", "Browse Plus", "tools/scripts/image_manager_menu" )
         action_browse_plus.triggered.connect( self.Browse_Plus )
 
-        action_show_hide = window.createAction( "image_manager_extension_show_hide", "Show / Hide")
+        action_show_hide = window.createAction( "image_manager_extension_show_hide", "Show / Hide", "tools/scripts/image_manager_menu" )
         action_show_hide.triggered.connect( self.show_hide )
 
     #endregion
